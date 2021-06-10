@@ -1,20 +1,20 @@
-Real Madrid-P87-j38-g26-e9-p3
-Barcelona-P82-j38-g25-e7-p6
-Atlético-P70-j38-g18-e16-p4
-Sevilla-P70-j38-g19-e13-p6
-Villarreal-P60-j38-g18-e6-p14
-R. Sociedad-P56-j38-g16-e8-p14
-Granada-P56-j38-g16-e8-p14
-Getafe-P54-j38-g14-e12-p12
-Valencia-P53-j38-g14-e11-p13
-Osasuna-P52-j38-g13-e13-p12
-Athletic-P51-j38-g13-e12-p13
-Levante-P49-j38-g14-e7-p17
-Real Valladolid-P42-j38-g9-e15-p14
-Eibar-P42-j38-g11-e9-p18
-Betis-P41-j38-g10-e11-p17
-Alavés-P39-j38-g10-e9-p19
-Celta-P37-j38-g7-e16-p15
-Leganés-P36-j38-g8-e12-p18
-Mallorca-P33-j38-g9-e6-p23
-Espanyol-P25-j38-g5-e10-p23
+Real Madrid: Puntos: 87 Jugados: 38 Ganados: 26 Empatados: 9 Perdidos: 3
+Barcelona: Puntos: 82 Jugados: 38 Ganados: 25 Empatados: 7 Perdidos: 6
+Atlético: Puntos: 70 Jugados: 38 Ganados: 18 Empatados: 16 Perdidos: 4
+Sevilla: Puntos: 70 Jugados: 38 Ganados: 19 Empatados: 13 Perdidos: 6
+Villarreal: Puntos: 60 Jugados: 38 Ganados: 18 Empatados: 6 Perdidos: 14
+R. Sociedad: Puntos: 56 Jugados: 38 Ganados: 16 Empatados: 8 Perdidos: 14
+Granada: Puntos: 56 Jugados: 38 Ganados: 16 Empatados: 8 Perdidos: 14
+Getafe: Puntos: 54 Jugados: 38 Ganados: 14 Empatados: 12 Perdidos: 12
+Valencia: Puntos: 53 Jugados: 38 Ganados: 14 Empatados: 11 Perdidos: 13
+Osasuna: Puntos: 52 Jugados: 38 Ganados: 13 Empatados: 13 Perdidos: 12
+Athletic: Puntos: 51 Jugados: 38 Ganados: 13 Empatados: 12 Perdidos: 13
+Levante: Puntos: 49 Jugados: 38 Ganados: 14 Empatados: 7 Perdidos: 17
+Real Valladolid: Puntos: 42 Jugados: 38 Ganados: 9 Empatados: 15 Perdidos: 14
+Eibar: Puntos: 42 Jugados: 38 Ganados: 11 Empatados: 9 Perdidos: 18
+Betis: Puntos: 41 Jugados: 38 Ganados: 10 Empatados: 11 Perdidos: 17
+Alavés: Puntos: 39 Jugados: 38 Ganados: 10 Empatados: 9 Perdidos: 19
+Celta: Puntos: 37 Jugados: 38 Ganados: 7 Empatados: 16 Perdidos: 15
+Leganés: Puntos: 36 Jugados: 38 Ganados: 8 Empatados: 12 Perdidos: 18
+Mallorca: Puntos: 33 Jugados: 38 Ganados: 9 Empatados: 6 Perdidos: p23
+Espanyol: Puntos: 25 Jugados: 38 Ganados: 5 Empatados: 10 Perdidos: 23
