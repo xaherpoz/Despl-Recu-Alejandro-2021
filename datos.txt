@@ -1,20 +1,20 @@
-Real Madrid-87-38-26-9-3
-Barcelona-82-38-25-7-6
-Atlético-70-38-18-16-4
-Sevilla-70-38-19-13-6
-Villarreal-60-38-18-6-14
-R. Sociedad-56-38-16-8-14
-Granada-56-38-16-8-14
-Getafe-54-38-14-12-12
-Valencia-53-38-14-11-13
-Osasuna-52-38-13-13-12
-Athletic-51-38-13-12-13
-Levante-49-38-14-7-17
-Real Valladolid-42-38-9-15-14
-Eibar-42-38-11-9-18
-Betis-41-38-10-11-17
-Alavés-39-38-10-9-19
-Celta-37-38-7-16-15
-Leganés-36-38-8-12-18
-Mallorca-33-38-9-6-23
-Espanyol-25-38-5-10-23
+Real Madrid-P87-j38-g26-e9-p3
+Barcelona-P82-j38-g25-e7-p6
+Atlético-P70-j38-g18-e16-p4
+Sevilla-P70-j38-g19-e13-p6
+Villarreal-P60-j38-g18-e6-p14
+R. Sociedad-P56-j38-g16-e8-p14
+Granada-P56-j38-g16-e8-p14
+Getafe-P54-j38-g14-e12-p12
+Valencia-P53-j38-g14-e11-p13
+Osasuna-P52-j38-g13-e13-p12
+Athletic-P51-j38-g13-e12-p13
+Levante-P49-j38-g14-e7-p17
+Real Valladolid-P42-j38-g9-e15-p14
+Eibar-P42-j38-g11-e9-p18
+Betis-P41-j38-g10-e11-p17
+Alavés-P39-j38-g10-e9-p19
+Celta-P37-j38-g7-e16-p15
+Leganés-P36-j38-g8-e12-p18
+Mallorca-P33-j38-g9-e6-p23
+Espanyol-P25-j38-g5-e10-p23
